@@ -1,0 +1,5 @@
+.arrow-previous {
+  transform: translate(0, -50%);
+  left: 3%;
+  font-size: 45px;
+}

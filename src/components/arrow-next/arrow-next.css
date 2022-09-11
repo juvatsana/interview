@@ -1,0 +1,5 @@
+.arrow-next {
+  transform: translate(0, -50%);
+  right: 3%;
+  font-size: 45px;
+}
