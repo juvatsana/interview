@@ -7,7 +7,8 @@ git clone https://github.com/juvatsana/interview
 ## Build de l'application
 
 ```
-cd tf1-interview
+cd interview
+npm i
 npm run build
 ```
 
@@ -34,7 +35,7 @@ serve -s build
 ![Tests](results/tests.png)
 
 ```
-npm test -- --coverage
+npm test -- --coverage --watchAll=false
 ```
 
 # Points d'attention
